@@ -18,11 +18,11 @@ global.autoread = true // auto read pesan / message
 global.available = false //status online (online)
 
 // Other
-global.botname = "GlospotBot" //namabot kalian
-global.ownername= "Glospot/Y" //nama kalian
+global.botname = "LinuxMd" //namabot kalian
+global.ownername= "YusupKakuu" //nama kalian
 global.myweb ="https://api.zeeoneofc.xyz" //bebas asal jan hapus
 global.youtube = "https://youtube.com/c/YUSUP909" //bebas asal jan hapus
-global.github = "https://yusup909.github.io/" //bebas
+global.github = "https://github.com/yusup909" //bebas
 global.email = "yusup90990@gmail.com" //bebas
 global.region = "Indonesia/Isekai" //bebas
 global.ownernomer = "6283897390164" // nomor wa kalian
@@ -30,9 +30,9 @@ global.ownernomerr = "+6283897390164" //nmr wa kalian
 global.thumbnail = "./image/lol.jpg" // ini lol.jpg adalah nama foto di folder image. untuk foto bot
 global.donasi = "./image/donasi.jpg" // foto donasi di folder image
 global.background_welcome="https://telegra.ph/file/90a931648de597820bc08.jpg" // maks size 30kb, agar welcome image nya tdk delay
-global.owner = ["6283897390164","6285391576039","6285781151132"] //ganti agar fitur owner bisa di gunakan
-global.packname = 'Glospot©' //sticker wm ubah
-global.author = 'LinuxServer' //sticker wm ganti nama kalian
+global.owner = ["6283897390164","185391576039","185781151132"] //ganti agar fitur owner bisa di gunakan
+global.packname = 'LinuxMd' //sticker wm ubah
+global.author = 'UwU' //sticker wm ganti nama kalian
 global.sessionName = 'session'
 global.flaming = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=sketch-name&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
 global.fluming = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=fluffy-logo&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
